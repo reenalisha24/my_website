@@ -81,14 +81,14 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+      - image: lbs.jpg
+        subtitle: Reena K Venkatesh
+        title: About Me
         url: blogs/aliquam
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        subtitle: Analysis
+        title: Risk Return of DJIA
+        url: blogs/risk_return #slug in rmd file
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
