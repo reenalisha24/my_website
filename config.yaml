@@ -77,7 +77,7 @@ params:
 #        url: elements.html
     menu: Menu
     subtitle: MFA 2022
-    title: Portfolio Website
+    title: Reena's Portfolio Website
   tiles:
     enable: yes
     showcase:
@@ -93,18 +93,18 @@ params:
         subtitle: Monthly changes in bike rentals over the past 5 years
         title: Rproj - Analysis of London Bike Rentals
         url: blogs/bike
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+      - image: rio.jpeg
+        subtitle: Conducting a Regression Analysis
+        title: Rproj - Analysis of Airbnbs in Rio De Janeiro
+        url: blogs/rio
+#      - image: pic05.jpg
+#        subtitle: Ipsum Dolor Sit Amet
+#        title: Consequat
+#        url: blogs/ipsum
+#      - image: pic06.jpg
+#        subtitle: Feugiat Amet Tempus
+#        title: Etiam
+#        url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
