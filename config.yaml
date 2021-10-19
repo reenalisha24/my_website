@@ -89,10 +89,10 @@ params:
         subtitle: Analysis
         title: Risk Return of DJIA
         url: blogs/risk_return #slug in rmd file
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+      - image: bike.jpg
+        subtitle: Monthly changes in bike rentals over the past 5 years
+        title: Rproj - Analysis of London Bike Rentals
+        url: blogs/bike
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
