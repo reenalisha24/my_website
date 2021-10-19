@@ -24,9 +24,9 @@ params:
       - email: rkvenkatesh.mfa2022@london.edu
         title: Email
     enable: yes
-#    phone:
-#      - phone: (000) 000-0000 x1234
-#        title: Phone
+    phone:
+      - phone: connect with me on linkedin!
+        title: Phone
   custom_css: []
   custom_js: []
   description: Your description
