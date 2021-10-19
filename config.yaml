@@ -1,12 +1,12 @@
 baseURL: https://reenakvenkatesh.netlify.app/
 languageCode: en-us
-title: Reens Venkatesh's Portfolio website
+title: Reena Venkatesh's Portfolio website
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
+    buttonText: Learn more about me!
     subtitle: |-
 #      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
 #      AND RELEASED UNDER THE CREATIVE COMMONS.
@@ -58,23 +58,20 @@ params:
         label: LinkedIn
         url: https://www.linkedin.com/in/reenakv/
   image: ''
-  name: Your name
+  name: Reena
   navigation:
     button1:
-      - name: Get Started
-        url: blogs
-    button2:
-      - name: Log In
-        url: '#'
-    links:
       - name: Home
         url: '#'
-      - name: Blogs
-        url: blogs
-#      - name: Generic Blog
-#        url: blogs/ipsum
-#      - name: Elements
-#        url: elements.html
+    links:
+      - name: About me
+        url: '#'
+      - name: What I enjoy
+        url: '#'
+      - name: Rproj - Bike Rentals
+        url: blogs/bike
+      - name: Rproj - Rio De Janeiro
+        url: blogs/rio
     menu: Menu
     subtitle: MFA 2022
     title: Reena's Portfolio Website

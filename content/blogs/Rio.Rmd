@@ -102,20 +102,6 @@ Even though there are many variables in the dataframe, here is a quick descripti
 
 # Experimental Data Analysis for Rio De Janeiro Airbnb Data
 
-## First, let us a get a broad overview
-
-```{r}
-#glimpse to get a quick transposed overview of this massive dataframe
-listings %>%
-  glimpse()
-
-# get summary stats
-listings %>%
-  skim()
-
-```
-
-
 ### How many variables/columns? How many rows/observations? --> _SKIM_
 Number of columns/ variables  74
 Number of rows/ observations  23414 
