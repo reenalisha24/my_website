@@ -84,7 +84,7 @@ params:
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Analysis
-        title: Risk Return of DJIA
+        title: What I enjoy
         url: blogs/risk_return #slug in rmd file
       - image: bike.jpg
         subtitle: Monthly changes in bike rentals over the past 5 years
@@ -112,4 +112,4 @@ params:
       Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
       amet pharetra et feugiat tempus."
     title: Massa libero
-    url: blogs
+    url: '#'
