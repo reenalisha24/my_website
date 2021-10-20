@@ -28,7 +28,6 @@ knitr::opts_chunk$set(
 )
 ```
 
-## I Love Art
 In my free time, I enjoy expressing myself creatively through paintings, photography and video editing.
 
 Here are some examples of the art I have created using different mediums, most of these drawings were done in 2020. 
@@ -42,6 +41,7 @@ My creative nature facilitates problem solving, allowing me to look at issues fr
 ### “a picture is worth a thousand words”
 
 and throughout my life I realised that it is no different from a statistical point of view. 
+
 ### Data, when interpreted, can tell a thousand stories. 
 
 You can look through some of the R projects I have completed by going back to the home page or clicking the top right menu button!
