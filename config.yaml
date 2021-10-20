@@ -67,7 +67,7 @@ params:
       - name: About me
         url: blogs/cv
       - name: What I enjoy
-        url: '#'
+        url: blogs/art
       - name: Rproj - Bike Rentals
         url: blogs/bike
       - name: Rproj - Rio De Janeiro
@@ -82,17 +82,17 @@ params:
         subtitle: My CV
         title: About Me
         url: blogs/cv
-      - image: pic02.jpg
-        subtitle: Analysis
+      - image: artbanner.jpg
+        subtitle: My Art
         title: What I enjoy
-        url: blogs/risk_return #slug in rmd file
+        url: blogs/art #slug in rmd file
       - image: bike.jpg
         subtitle: Monthly changes in bike rentals over the past 5 years
-        title: Rproj - Analysis of London Bike Rentals
+        title: Rproject - Analysis of London Bike Rentals
         url: blogs/bike
       - image: rio.jpeg
         subtitle: Conducting a Regression Analysis
-        title: Rproj - Analysis of Airbnbs in Rio De Janeiro
+        title: Rproject - Analysis of Airbnbs in Rio De Janeiro
         url: blogs/rio
 #      - image: pic05.jpg
 #        subtitle: Ipsum Dolor Sit Amet
@@ -103,13 +103,8 @@ params:
 #        title: Etiam
 #        url: blogs/ipsum
   two:
-    buttonText: Get Started
+    buttonText: Back to the top
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
-    url: blogs
+    subtitle: "Thank you for taking the time to look through my website"
+    title: That's it for now!
+    url: '#'
