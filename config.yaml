@@ -6,10 +6,10 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Learn more about me!
+    buttonText: Start!
     subtitle: |-
-#      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-#      AND RELEASED UNDER THE CREATIVE COMMONS.
+      MORE ABOUT ME, WHAT I LOVE,
+      AND THE R PROJECTS I HAVE COMPLETED ~
     title: Reena K Venkatesh
   blog: {}
   contact:
@@ -29,7 +29,7 @@ params:
         title: Phone
   custom_css: []
   custom_js: []
-  description: Your description
+  description: A portfolio website about me and my projects. 
   error404:
     heading: Page couldn't be found
     text: Please visit [this page](/)
@@ -79,9 +79,9 @@ params:
     enable: yes
     showcase:
       - image: me.jpg
-        subtitle: Reena K Venkatesh
+        subtitle: My CV
         title: About Me
-        url: blogs/aliquam
+        url: blogs/cv
       - image: pic02.jpg
         subtitle: Analysis
         title: What I enjoy
@@ -112,4 +112,4 @@ params:
       Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
       amet pharetra et feugiat tempus."
     title: Massa libero
-    url: '#'
+    url: blogs
