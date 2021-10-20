@@ -65,7 +65,7 @@ params:
         url: '#'
     links:
       - name: About me
-        url: '#'
+        url: blogs/cv
       - name: What I enjoy
         url: '#'
       - name: Rproj - Bike Rentals

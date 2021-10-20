@@ -32,34 +32,47 @@ knitr::opts_chunk$set(
 ## Education
 ### (2021 - 2022) London Business School, London, United Kingdom
 Reading for Masters in Financial Analysis
+
 Part of the Executive Committee of the Art and Business Club
+
 GMAT: 720
+
 ### (2017 - 2020) London School of Economics and Political Science, London, United Kingdom
 BSc Financial Mathematics and Statistics, Second Class Upper
 
 ## Business Experience
 ### (2019) TNB Aura, Singapore - Analyst Internship
 (A venture capital firm focused on Series A and Series B technology investments)
+
 * Constructed a competitive matrix and consolidated other segments of an investment committee paper on an innovative supply chain startup with a total addressable market worth US$775M
+
 * Identified innovation opportunities within Singapore's maritime industry, home to more than 5000 maritime organisations and business, to find inventive startups with capabilities to improve efficiency in operations
+
 * Performed comprehensive company analysis on hardware focused companies valued above $1billion worldwide as a reference point for potential similar startups within Southeast Asia
 
 ### (2018) Gateway Partners, Singapore - Analyst Internship
 (A private equity fund investing across the markets of Southeast Asia, Middle East, and Africa)
+
 * Created financial models to value companies by forecasting revenues and financials based on past financial statements over a 5 year period with support from senior analysts
+
 * Conducted company analyses using three core methods, DCF, Comps and Precedent Transaction Analysis to understand use cases of each method while also carrying out sensitivity analysis
+
 * Led a news run on 8 different automobile and energy companies based in Indonesia using Factiva and other websites, relying on personal Malay language understanding
 
 ## Additional Information
 ### Technical Skills
 Received a verified certificate from Microsoft upon completion of an online Microsoft C++ course Experience in C++, R, MATLAB and Tableau
+
 ### Volunteering
 Mentored disadvantaged children aged 6-8 in English and Mathematics through two-hour weekly interactive sessions over 2 years
+
 ### Extra-Curricular
 Established a Strategies Club in college to create stronger connections between students through mentally stimulating games that provide stress relief
 Treasurer of a 1st division symphonic band consisting of 200 students and overlooked bands’ expensesleading up to and during biannual exchange programme to Japan
+
 ### Interests
 Photography and videography, Travel, and Reading
+
 ### Languages
 English (Native), Malay(Fluent)
 
