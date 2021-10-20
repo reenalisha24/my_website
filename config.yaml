@@ -68,9 +68,9 @@ params:
         url: blogs/cv
       - name: What I enjoy
         url: blogs/art
-      - name: Rproj - Bike Rentals
+      - name: R Project - Bike Rentals
         url: blogs/bike
-      - name: Rproj - Rio De Janeiro
+      - name: R Project - Rio De Janeiro
         url: blogs/rio
     menu: Menu
     subtitle: MFA 2022
@@ -88,11 +88,11 @@ params:
         url: blogs/art #slug in rmd file
       - image: bike.jpg
         subtitle: Monthly changes in bike rentals over the past 5 years
-        title: Rproject - Analysis of London Bike Rentals
+        title: R Project - Analysis of London Bike Rentals
         url: blogs/bike
       - image: rio.jpeg
         subtitle: Conducting a Regression Analysis
-        title: Rproject - Analysis of Airbnbs in Rio De Janeiro
+        title: R Project - Analysis of Airbnbs in Rio De Janeiro
         url: blogs/rio
 #      - image: pic05.jpg
 #        subtitle: Ipsum Dolor Sit Amet

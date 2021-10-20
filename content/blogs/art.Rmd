@@ -30,13 +30,13 @@ knitr::opts_chunk$set(
 
 In my free time, I enjoy expressing myself creatively through paintings, photography and video editing.
 
-Here are some examples of the art I have created using different mediums, most of these drawings were done in 2020. 
+Here are some examples of the art I have created using different mediums. Most of these drawings were done in 2020. 
 
 ```{r echo=FALSE}
 knitr::include_graphics("/img/art.jpg",error =FALSE)
 ```
 
-My creative nature facilitates problem solving, allowing me to look at issues from a different perspective. Many would agree with the phrase 
+My creative nature facilitates problem solving, allowing me to look at issues from a different perspective. Many artists would agree with the phrase 
 
 ### “a picture is worth a thousand words”
 
